@@ -1,2 +1,9 @@
 # agent
-create agent with openai api
+create agent with xxx
+
+# how to run
+
+```bash
+$ pipenv sync
+$ pipenv run agent
+```
