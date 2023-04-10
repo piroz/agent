@@ -10,6 +10,7 @@ agent = "python agent.py"
 transformers = "*"
 torch = "*"
 fire = "*"
+langchain = "*"
 
 [dev-packages]
 
