@@ -12,6 +12,8 @@ torch = "*"
 fire = "*"
 langchain = "*"
 openai = "*"
+google-search-results = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
